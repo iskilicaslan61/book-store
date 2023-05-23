@@ -9,4 +9,12 @@ public class BookOrderRequest {
 
     private List<Integer> bookIdList;
     private String userName;
+	public List<Integer> getBookIdList() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	public String getUserName() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 }
